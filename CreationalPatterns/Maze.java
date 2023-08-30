@@ -1,5 +1,3 @@
-package Builder;
-
 import java.util.ArrayList;
 
 public class Maze
