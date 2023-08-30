@@ -1,5 +1,3 @@
-package Builder;
-
 import java.util.Arrays;
 
 public class Room extends MapSite {
