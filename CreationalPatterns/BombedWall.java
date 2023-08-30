@@ -1,5 +1,3 @@
-package Builder;
-
 public class BombedWall extends Wall
 {
     private boolean isBombPresent;
