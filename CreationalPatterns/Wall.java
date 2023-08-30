@@ -1,5 +1,3 @@
-package Builder;
-
 public class Wall extends MapSite {
 
     public Wall(){
