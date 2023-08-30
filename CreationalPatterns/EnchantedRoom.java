@@ -1,5 +1,3 @@
-package Builder;
-
 public class EnchantedRoom extends Room
 {
     private Spell spell;
