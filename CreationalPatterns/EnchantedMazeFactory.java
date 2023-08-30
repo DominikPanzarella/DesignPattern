@@ -1,5 +1,3 @@
-package Builder;
-
 public class EnchantedMazeFactory extends MazeFactory
 {
 
