@@ -1,4 +1,3 @@
-package Builder;
 
 public class BombedMazeFactory extends MazeFactory
 {
