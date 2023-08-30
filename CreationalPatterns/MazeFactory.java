@@ -1,9 +1,7 @@
-package Builder;
-
-
 /*
 * MazeFactory acts as both the AbstractFactory and the ConcreteFactory. This is a common simple application of the Abstract Factory Design Pattern
-* */
+* 
+*/
 public class MazeFactory
 {
 
