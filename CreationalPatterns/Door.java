@@ -1,5 +1,3 @@
-package Builder;
-
 public class Door extends MapSite {
     private final Room room1;
     private final Room room2;
