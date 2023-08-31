@@ -1,0 +1,33 @@
+As far as now, we have implemented the "basic" version of the CommonClasses.Maze, within the following classes:
+- CommonClasses.Direction (enum)                                                                              [X]
+- CommonClasses.Door                                                                                          [X]
+- CommonClasses.MapSite                                                                                       [X]
+- CommonClasses.Maze                                                                                          [X]
+- CommonClasses.MazeFactory                                                                                   [X]
+- CommonClasses.MazeGame                                                                                      [X]
+- CommonClasses.Room                                                                                          [X]
+- CommonClasses.Wall                                                                                          [X]
+                                                                                                [Status: DONE]
+
+
+CommonClasses.MazeFactory is either the AbstractFactory and the ConcreteFactor, because it was implemented as a concrete class within all the
+factory methods for instantiate a CommonClasses.Door,a CommonClasses.Maze,a CommonClasses.Room and a CommonClasses.Wall.
+
+[Status: DONE]
+We are now interested on creating enchanted mazes within:
+- CommonClasses.Spell                                                                                         [X]
+- CommonClasses.EnchantedRoom                                                                                 [X]
+- CommonClasses.DoorNeedingSpell                                                                              [X]
+- CommonClasses.EnchantedMazeGame                                                                             [X]
+- CommonClasses.EnchantedMazeFactory                                                                          [X]
+                                                                                                [Status: DONE]
+
+[STATUS: DONE]
+Finally, suppose we want to make a maze game in which a rom can have a bomb set in it.
+Classes to be developed:
+- CommonClasses.BombedWall                                                                                    [X]
+- CommonClasses.RoomWithABomb                                                                                 [X]
+- CommonClasses.BombedMazeGame                                                                                [X]
+- CommonClasses.BombedMazeFactory                                                                             [X]
+- Bomb (can be a boolean variable - true if it is within the room either false - or an object)  [X]
+                                                                                                [Status: DONE]
