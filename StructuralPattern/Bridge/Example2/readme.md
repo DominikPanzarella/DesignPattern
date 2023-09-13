@@ -1,0 +1,1 @@
+Example took from https://www.digitalocean.com/community/tutorials/bridge-design-pattern-java
